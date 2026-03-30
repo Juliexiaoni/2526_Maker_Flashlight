@@ -1,6 +1,5 @@
 # 2526_Maker_Flashlight
-Objectif : Concevoir une lampe d'éclairage sur un vélo afin d'augmenter la visibilité. 
-Gestion de projet personnel.
+Objectif : Concevoir une lampe d'éclairage sur un vélo afin d'augmenter la sécutité en étant plus visible. 
 
 ### Cahier des charges : 
 - 3 modes d’éclairages
