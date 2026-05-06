@@ -17,6 +17,6 @@ Le boîtier consiste à réaliser un suppport qui se clipse sur une attache en c
 
 <img width="800" height="600" alt="WhatsApp Image 2026-05-06 at 15 49 47 (1)" src="https://github.com/user-attachments/assets/5a97b4f0-10e8-4801-ad79-293b3ba77332" />
 <img width="800" height="600" alt="WhatsApp Image 2026-05-06 at 15 49 47" src="https://github.com/user-attachments/assets/57887a70-a1b4-474c-8721-9f1f0800411d" />
+<img width="800" height="600" alt="WhatsApp Image 2026-05-06 at 15 54 11" src="https://github.com/user-attachments/assets/e0987ff9-cf1f-48e2-9200-11d8673a17ae" />
 
-
-
+La distance laissée entre les composants de la couche arrière et le support permet d’utiliser le bouton pour allumer et éteindre la lumière.
