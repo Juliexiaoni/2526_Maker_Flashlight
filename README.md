@@ -12,6 +12,7 @@ Objectif : Concevoir une lampe d'éclairage sur un vélo afin d'augmenter la sé
 3. CAO pour le boitier
 4. Assemblage et test
 
+<img width="920" height="564" alt="Support Flashlight" src="https://github.com/user-attachments/assets/ee4ebf2b-8e3f-40a9-a8cb-babd9e46793a" />
 
 
 
